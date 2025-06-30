@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Əminsəən?",
+    "Dəqiqqq??",
+    "İnanmagim gelmirr?",
+    "Nolaarr...",
+    "Bu haqqda düşünnn!",
+    "Əgər yox desən, üzülərəmm...",
+    "Çoxx üzülərəəmm...",
+    "Çox Çoxxxx...",
+    "Yaxşı daha deməyəcəm...",
+    "Hahahaha HƏ deee! ❤️"
 ];
 
 let messageIndex = 0;
