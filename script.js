@@ -56,7 +56,7 @@
 const messages = [
     "Əminsəən?",
     "Dəqiqqq??",
-    "İnanmagim gelmirr?",
+    "İnanmagim gelmirr",
     "Nolaarr...",
     "Bu haqqda düşünnn!",
     "Əgər yox desən, üzülərəmm...",
